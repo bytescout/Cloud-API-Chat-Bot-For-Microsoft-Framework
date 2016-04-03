@@ -1,0 +1,11 @@
+module.exports = {
+    'AppId': 'bytescout',
+    'AppSecret': 'APP_SECRET_HERE', // microsoft bot app secret
+    'ByteScoutAPIKEY': "BYTESCOUT_API_KEY", // bytescout cloud api key, check https://bytescout.com/products/developer/cloudapi/index.html
+    'WelcomeMessage': "Welcome to ByteScout!",
+    'UnknownCommand': "Sorry, unknown command. Type Hi to see all options",
+    'SuccessMessage': "Succesfully processed. Type Hi to see all options", 
+    'ErrorResponse': "Oops, something went wrong. Please type Hi for help",
+    'ErrorInput': "The input is not supported, please try to change it or contact us at https://bytescout.zendesk.com/hc/en-us/requests/new or mailto:support@bytescout.com",
+    'HTMLtoPDFHeaderText': "This file was generated using <a href='https://bytescout.com/products/developer/cloudapi/index.html'>ByteScout Cloud API</a>"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "bytescout-ms-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "botbuilder": "^0.6.4",
+    "express": "^4.13.4",
+    "request": "^2.69.0",
+    "restify": "^4.0.4"
+  }
+}
