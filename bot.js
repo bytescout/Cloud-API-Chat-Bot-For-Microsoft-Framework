@@ -193,7 +193,7 @@ var CommandHTMLToPDF = function (session) {
             'input': text.trim(),
             'inputType': 'link',
             'outputType': 'link',
-            'properties.FooterText': config.HTMLtoPDFHeaderText
+            'properties.FooterHTML': config.HTMLtoPDFHeaderText            
         }
     };
 
