@@ -2,10 +2,11 @@
 
 Chat bot based on [ByteScout Cloud API](https://bytescout.com/products/developer/cloudapi/index.html) and [Microsoft Bot Framework](https://github.com/Microsoft/BotBuilder). 
 
-Try it live at [https://bytescout.com/products/developer/cloudapi/index.html](https://bytescout.com/products/developer/cloudapi/index.html)
+Try it live at **[https://bytescout.com/products/developer/cloudapi/index.html](https://bytescout.com/products/developer/cloudapi/index.html)**
 
 **Screenshot**
 
+![screenshot of MS web chat bot)
 (https://https://github.com/bytescout/Cloud-API-Chat-Bot-For-Microsoft-Framework/master/bytescoutbot-webchat-online.png)
 
 Copyright 2016, **ByteScout**. 
